@@ -15,9 +15,13 @@ The symbol of **Um** is a broken bar and the symbol of **Yang** is a solid bar. 
 | Trigram name | Meaning |
 | ----------- | ----------- |
 | Keon | Heavan |
-| Paragraph | Text |
-
-
+| Sohn | Wind |
+| Gam | Water |
+| Gahn | Mountain |
+| Gon | Earth |
+| Jin | Thunder |
+| Ri | Fire |
+| Tae | River |
 
 
 
