@@ -14,7 +14,7 @@ The symbol of **Um** is a broken bar and the symbol of **Yang** is a solid bar. 
 
 | Trigram name | Meaning |
 | ----------- | ----------- |
-| Keon | Heavan |
+| Keon | Heaven |
 | Sohn | Wind |
 | Gam | Water |
 | Gahn | Mountain |
@@ -28,14 +28,14 @@ There are eight Taegeuk Poomsae. Each Poomsae is built upon the previous one, ad
 
 Poomase Name | Trigram name | Meaning | Explanation
 | ----------- | ----------- | ----------- | ----------- |
-| Il Jang | Keon | Heavan | Spirit on solid foundation |
-| Sohn | Wind |
-| Gam | Water |
-| Gahn | Mountain |
-| Gon | Earth |
-| Jin | Thunder |
-| Ri | Fire |
-| Tae | River |
+| Il Jang | Keon | Heaven | Spirit on solid foundation |
+| Ee Jang | Tae | River | Inner strength and external gentleness |
+| Sam Jang | Ri | Fire | Spirit of enthusiasm  |
+| Sah Jang | Jin | Thunder | Spirit of undeniable power and dignity |
+| Oh Jang | Sohn | Wind | Spirit of gentle power |
+| Yuk Jang | Gam | Water | Spirit of flow and ultimate flexibilty |
+| Chl Jang | Gahn | Mountain | Spirit of firmness and strength |
+| Pal Jang | Gon | Earth | Spirit of humbleness |
 
 
 
