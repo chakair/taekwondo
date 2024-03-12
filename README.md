@@ -27,15 +27,15 @@ The symbol of **Um** is a broken bar and the symbol of **Yang** is a solid bar. 
 There are eight Taegeuk Poomsae. Each Poomsae is built upon the previous one, adding more complicated movements. 
 
 | Poomase Name | Trigram name | Meaning | Explanation | Number of movements |
-| ----------- | ----------- | ----------- | ----------- |
-| Il Jang | Keon | Heaven | Spirit on solid foundation |
-| Ee Jang | Tae | River | Inner strength and external gentleness |
-| Sam Jang | Ri | Fire | Spirit of enthusiasm  |
-| Sah Jang | Jin | Thunder | Spirit of undeniable power and dignity |
-| Oh Jang | Sohn | Wind | Spirit of gentle power |
-| Yuk Jang | Gam | Water | Spirit of flow and ultimate flexibilty |
-| Chl Jang | Gahn | Mountain | Spirit of firmness and strength |
-| Pal Jang | Gon | Earth | Spirit of humbleness |
+| ----------- | ----------- | ----------- | ----------- |----------- |
+| Il Jang | Keon | Heaven | Spirit on solid foundation | 18 movements  | 
+| Ee Jang | Tae | River | Inner strength and external gentleness | 18 movements |
+| Sam Jang | Ri | Fire | Spirit of enthusiasm  | 20 movements |
+| Sah Jang | Jin | Thunder | Spirit of undeniable power and dignity | 20 movements | 
+| Oh Jang | Sohn | Wind | Spirit of gentle power | 20 movements |
+| Yuk Jang | Gam | Water | Spirit of flow and ultimate flexibilty | 19 movements |
+| Chl Jang | Gahn | Mountain | Spirit of firmness and strength | 25 movements |
+| Pal Jang | Gon | Earth | Spirit of humbleness | 27 movements |
 
 
 
