@@ -26,7 +26,7 @@ The symbol of **Um** is a broken bar and the symbol of **Yang** is a solid bar. 
 # Eight Taegeuk Poomsae
 There are eight Taegeuk Poomsae. Each Poomsae is built upon the previous one, adding more complicated movements. 
 
-Poomase Name | Trigram name | Meaning | Explanation
+Poomase Name | Trigram name | Meaning | Explanation | Number of movements |
 | ----------- | ----------- | ----------- | ----------- |
 | Il Jang | Keon | Heaven | Spirit on solid foundation |
 | Ee Jang | Tae | River | Inner strength and external gentleness |
