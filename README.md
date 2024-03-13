@@ -38,5 +38,11 @@ There are eight Taegeuk Poomsae. Each Poomsae is built upon the previous one, ad
 | Pal Jang | Gon | Earth | Spirit of humbleness | 27 movements |
 
 
+# Il Jang Poomsae
+Il Jang movements 
+
+| Number | Description | 
+| ----------- | ----------- | 
+| 0  | Junbi | 
 
 
