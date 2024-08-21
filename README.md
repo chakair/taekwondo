@@ -50,6 +50,9 @@ The form consists of basic movements, such as walking stance, front stance, low 
 ## Il Jang movements
 | Number | Description | 
 | ----------- | ----------- | 
-| 0  | Junbi | 
+| 0  | Junbi |
+| 1  | Walking stance, left low punch |
+| 2  | Walking stance, right middle punch |
+
 
 
