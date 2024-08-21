@@ -1,5 +1,5 @@
 # Taekwondo
-Taekwondo vocabulary
+Taekwondo is a marshal arts which originates from South Korea and stands for foot, fist, way (art).
 
 # Taekgeuk Poomsae
 The Taekgeuk Poomsae is the official forms required for all colour belts of World Taekwondo Federation.
@@ -39,8 +39,15 @@ There are eight Taegeuk Poomsae. Each Poomsae is built upon the previous one, ad
 
 
 # Il Jang Poomsae
-Il Jang movements 
+Il Jang Poomsae is the first of eight Taegeuk Poomsaes. 
+Il Jang Poomsae is the most basic form of taekwondo.
+This form is for the 8th Cup and consists of 18 movements.
 
+## Meaning of Il Jang Poomsae
+The symbol for Il Jang Poomsae is Keon **(Sky/Heaven)**. 
+The form consists of basic movements, such as walking stance, front stance, low block, high block, inside block, middle punch and front kick.
+
+## Il Jang movements
 | Number | Description | 
 | ----------- | ----------- | 
 | 0  | Junbi | 
